@@ -1,7 +1,7 @@
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "/assets/css/style.css",
+    "/assets/css/styles.css",
     "/assets/js/index.js",
     "/manifest.webmanifest",
     "/assets/images/icons/icon-192x192.png",
